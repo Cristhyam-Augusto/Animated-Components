@@ -1,2 +1,2 @@
-# UI-Motion-Components
+# Animated Components
 UI motion components repository
