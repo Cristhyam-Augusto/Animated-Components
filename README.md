@@ -1,2 +1,2 @@
 # Animated Components
-UI motion components repository
+Repositório voltado para animações do front
